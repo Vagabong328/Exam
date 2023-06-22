@@ -1,0 +1,12 @@
+C:\Users\Sh1Za\source\repos\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Sh1Za\source\repos\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Sh1Za\source\repos\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\Sh1Za\source\repos\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Sh1Za\source\repos\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Sh1Za\source\repos\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Администратор\Desktop\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Администратор\Desktop\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Администратор\Desktop\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Администратор\Desktop\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
